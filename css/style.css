@@ -1,3 +1,12 @@
 body {
     background-color: rgb(18, 208, 208);
 }
+
+p {
+    color: bisque;
+}
+
+h2 {
+    font-size: 50px;
+}
+
